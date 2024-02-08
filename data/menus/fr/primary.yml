@@ -21,4 +21,8 @@ items:
   target: "/budgets/"
   kind: page
   children: []
+- title: Planning
+  target: "/planning/"
+  kind: page
+  children: []
 
