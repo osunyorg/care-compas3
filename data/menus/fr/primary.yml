@@ -21,12 +21,4 @@ items:
   target: "/budgets/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  children: []
 
