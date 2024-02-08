@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Présentation
+  target: "/presentation/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
