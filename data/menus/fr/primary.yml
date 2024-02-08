@@ -25,4 +25,8 @@ items:
   target: "/planning/"
   kind: page
   children: []
+- title: Gouvernance
+  target: "/gouvernance/"
+  kind: page
+  children: []
 
