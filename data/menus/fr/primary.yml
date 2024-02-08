@@ -17,4 +17,8 @@ items:
   target: "/description-des-acteurs/"
   kind: page
   children: []
+- title: Budgets
+  target: "/budgets/"
+  kind: page
+  children: []
 
