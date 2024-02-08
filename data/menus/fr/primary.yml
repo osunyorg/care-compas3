@@ -17,6 +17,10 @@ items:
   target: "/planning/"
   kind: page
   children: []
+- title: Budgets
+  target: "/budgets/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -27,10 +31,6 @@ items:
   children: []
 - title: Organisations
   target: "/organisations/"
-  kind: page
-  children: []
-- title: Budgets
-  target: "/budgets/"
   kind: page
   children: []
 
