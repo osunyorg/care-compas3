@@ -5,6 +5,14 @@ items:
   target: "/presentation/"
   kind: page
   children: []
+- title: Gouvernance
+  target: "/gouvernance/"
+  kind: page
+  children: []
+- title: Planning
+  target: "/planning/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -23,14 +31,6 @@ items:
   children: []
 - title: Budgets
   target: "/budgets/"
-  kind: page
-  children: []
-- title: Planning
-  target: "/planning/"
-  kind: page
-  children: []
-- title: Gouvernance
-  target: "/gouvernance/"
   kind: page
   children: []
 
