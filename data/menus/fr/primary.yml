@@ -9,6 +9,10 @@ items:
   target: "/gouvernance/"
   kind: page
   children: []
+- title: Les acteurs
+  target: "/description-des-acteurs/"
+  kind: page
+  children: []
 - title: Planning
   target: "/planning/"
   kind: page
@@ -23,10 +27,6 @@ items:
   children: []
 - title: Organisations
   target: "/organisations/"
-  kind: page
-  children: []
-- title: Les acteurs
-  target: "/description-des-acteurs/"
   kind: page
   children: []
 - title: Budgets
