@@ -18,4 +18,5 @@ params:
   posts:
     default_image: true
     index:
-      show_categories: true
+      options:
+        categories: true
