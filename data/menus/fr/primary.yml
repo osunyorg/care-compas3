@@ -5,20 +5,25 @@ items:
   target: "/presentation/"
   kind: page
   children: []
+  file: content/fr/pages/presentation/_index.html
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
   children: []
+  file: content/fr/pages/gouvernance/_index.html
 - title: Partenaires
   target: "/description-des-acteurs/"
   kind: page
   children: []
+  file: content/fr/pages/description-des-acteurs/_index.html
 - title: Planning
   target: "/planning/"
   kind: page
   children: []
+  file: content/fr/pages/planning/_index.html
 - title: Budgets
   target: "/budgets/"
   kind: page
   children: []
+  file: content/fr/pages/budgets/_index.html
 
