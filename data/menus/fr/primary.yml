@@ -4,30 +4,35 @@ items:
 - title: Présentation
   target: "/presentation/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/presentation"
   file: content/fr/pages/presentation/_index.html
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/gouvernance"
   file: content/fr/pages/gouvernance/_index.html
 - title: Partenaires
   target: "/description-des-acteurs/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/description-des-acteurs"
   file: content/fr/pages/description-des-acteurs/_index.html
 - title: Planning
   target: "/planning/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/planning"
   file: content/fr/pages/planning/_index.html
 - title: Budgets
   target: "/budgets/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/budgets"
   file: content/fr/pages/budgets/_index.html
