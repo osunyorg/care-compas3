@@ -2,6 +2,11 @@
 
 baseURL: https://compas3.care.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: d63aa663-5e4a-4d32-8eac-7f661b7234c6
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
