@@ -2,38 +2,48 @@
 title: Menu principal
 items:
 - title: Présentation
+  slug: presentation
   target: "/presentation/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/presentation"
   file: content/fr/pages/presentation/_index.html
 - title: Gouvernance
+  slug: gouvernance
   target: "/gouvernance/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/gouvernance"
   file: content/fr/pages/gouvernance/_index.html
 - title: Partenaires
+  slug: partenaires
   target: "/description-des-acteurs/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/description-des-acteurs"
   file: content/fr/pages/description-des-acteurs/_index.html
 - title: Planning
+  slug: planning
   target: "/planning/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/planning"
   file: content/fr/pages/planning/_index.html
 - title: Budgets
+  slug: budgets
   target: "/budgets/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/budgets"
   file: content/fr/pages/budgets/_index.html
 
